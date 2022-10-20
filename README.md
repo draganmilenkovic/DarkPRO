@@ -16,10 +16,37 @@
   </p>
 </div>
 
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#about-the-project">About Dark PRO</a></li>
+    <li><a href="#features">Features</a></li>
+    <li><a href="#screenshots">Screenshots</a></li>
+    <li><a href="#installation">Installation</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
+</details>
+
 
 <!-- ABOUT THE PROJECT -->
-## Screenshots JS/PHP/CSS/HTML
+## About The Project
 Color schemes (<a href="https://github.com/draganmilenkovic/DarkPRO">Dark PRO Original, Dark PRO Bright, Dark PRO Volatile Black, PRO Blue Original, PRO Blue Deep, PRO Blue X-Deep</a>) for Sublime Text.
+
+<!-- FEATURES -->
+## Features:
+
+Dark PRO themes strike the center of beautiful colors and eye-care, creating a perfect dark themes selection for your next 20.000 hours in front of the screen.
+* Built by a Monokai scheme fan and battle-tested Graphic Design & Coding PRO
+* Built with goal to create the perfect balance between vivid colors and eye-care.
+* Instantly elevates your code highlighting.
+* Specific targeting for several coding languages.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SCREENSHOTS -->
+## Screenshots
 
 ### JS - Dark PRO Original
 <img src="https://github.com/draganmilenkovic/DarkPRO/blob/main/images/demo-js-dark-pro.png" />
@@ -78,6 +105,8 @@ Color schemes (<a href="https://github.com/draganmilenkovic/DarkPRO">Dark PRO Or
 ### HTML - Dark PRO Blue X-Deep
 <img src="https://github.com/draganmilenkovic/DarkPRO/blob/main/images/demo-html-blue-xdeep.png" />
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- INSTALLATION -->
 ## Installation
 
@@ -97,16 +126,7 @@ Color schemes (<a href="https://github.com/draganmilenkovic/DarkPRO">Dark PRO Or
 * And add the following line to Settings - User (Preferences.sublime-settings) file.
 <p>`"color_scheme": "Packages/[RootOrYourCustomRoot]/Dark PRO Original.tmTheme"`</p>
 
-
-
-<!-- FEATURES -->
-## Features:
-
-Dark PRO themes strike the center of beautiful colors and eye-care, creating a perfect dark themes selection for your next 20.000 hours in front of the screen.
-* Built by a Monokai scheme fan and battle-tested Graphic Design & Coding PRO
-* Built with goal to create the perfect balance between vivid colors and eye-care.
-* Instantly elevates your code highlighting.
-* Specific targeting for several coding languages.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 ## License
@@ -117,3 +137,5 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 
 Project Link: [https://github.com/draganmilenkovic/DarkPRO](https://github.com/draganmilenkovic/DarkPRO)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
