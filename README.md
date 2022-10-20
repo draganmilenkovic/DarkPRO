@@ -21,25 +21,25 @@
 ## Screenshots JS/PHP/CSS/HTML
 Color schemes (<a href="https://github.com/draganmilenkovic/DarkPRO">Dark PRO Original, Dark PRO Bright, Dark PRO Volatile Black, PRO Blue Original, PRO Blue Deep, PRO Blue X-Deep</a>) for Sublime Text.
 
-[demo-js-dark-pro]
-[demo-all-css]
-[demo-js-dark-pro-volatile-black]
-[demo-js-dark-pro-bright]
-[demo-js-blue]
-[demo-js-blue-deep]
-[demo-js-blue-xdeep]
-[demo-php-dark-pro-volatile-black]
-[demo-php-dark-pro]
-[demo-php-dark-pro-bright]
-[demo-php-blue]
-[demo-php-blue-deep]
-[demo-php-blue-xdeep]
-[demo-html-dark-pro-volatile-black]
-[demo-html-dark-pro]
-[demo-html-dark-pro-bright]
-[demo-html-blue]
-[demo-html-blue-deep]
-[demo-html-blue-xdeep]
+<img src="https://github.com/draganmilenkovic/DarkPRO/master/images/demo-js-dark-pro.png" />
+<img src="https://github.com/draganmilenkovic/DarkPRO/master/images/demo-all-css.png" />
+<img src="https://github.com/draganmilenkovic/DarkPRO/master/images/demo-js-dark-pro-volatile-black.png" />
+<img src="https://github.com/draganmilenkovic/DarkPRO/master/images/demo-js-dark-pro-bright.png" />
+<img src="https://github.com/draganmilenkovic/DarkPRO/master/images/demo-js-blue.png" />
+<img src="https://github.com/draganmilenkovic/DarkPRO/master/images/demo-js-blue-deep.png" />
+<img src="https://github.com/draganmilenkovic/DarkPRO/master/images/demo-js-blue-xdeep.png" />
+<img src="https://github.com/draganmilenkovic/DarkPRO/master/images/demo-php-dark-pro-volatile-black.png" />
+<img src="https://github.com/draganmilenkovic/DarkPRO/master/images/demo-php-dark-pro.png" />
+<img src="https://github.com/draganmilenkovic/DarkPRO/master/images/demo-php-dark-pro-bright.png" />
+<img src="https://github.com/draganmilenkovic/DarkPRO/master/images/demo-php-blue.png" />
+<img src="https://github.com/draganmilenkovic/DarkPRO/master/images/demo-php-blue-deep.png" />
+<img src="https://github.com/draganmilenkovic/DarkPRO/master/images/demo-php-blue-xdeep.png" />
+<img src="https://github.com/draganmilenkovic/DarkPRO/master/images/demo-html-dark-pro-volatile-black.png" />
+<img src="https://github.com/draganmilenkovic/DarkPRO/master/images/demo-html-dark-pro.png" />
+<img src="https://github.com/draganmilenkovic/DarkPRO/master/images/demo-html-dark-pro-bright.png" />
+<img src="https://github.com/draganmilenkovic/DarkPRO/master/images/demo-html-blue.png" />
+<img src="https://github.com/draganmilenkovic/DarkPRO/master/images/demo-html-blue-deep.png" />
+<img src="https://github.com/draganmilenkovic/DarkPRO/master/images/demo-html-blue-xdeep.png" />
 
 <!-- INSTALLATION -->
 ## Installation
@@ -80,25 +80,3 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 
 Project Link: [https://github.com/draganmilenkovic/DarkPRO](https://github.com/draganmilenkovic/DarkPRO)
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[demo-js-dark-pro]: images/demo-js-dark-pro.png
-[demo-all-css]: images/demo-all-css.png
-[demo-js-dark-pro-volatile-black]: images/demo-js-dark-pro-volatile-black.png
-[demo-js-dark-pro-bright]: images/demo-js-dark-pro-bright.png
-[demo-js-blue]: images/demo-js-blue.png
-[demo-js-blue-deep]: images/demo-js-blue-deep.png
-[demo-js-blue-xdeep]: images/demo-js-blue-xdeep.png
-[demo-php-dark-pro-volatile-black]: images/demo-php-dark-pro-volatile-black.png
-[demo-php-dark-pro]: images/demo-php-dark-pro.png
-[demo-php-dark-pro-bright]: images/demo-php-dark-pro-bright.png
-[demo-php-blue]: images/demo-php-blue.png
-[demo-php-blue-deep]: images/demo-php-blue-deep.png
-[demo-php-blue-xdeep]: images/demo-php-blue-xdeep.png
-[demo-html-dark-pro-volatile-black]: images/demo-html-dark-pro-volatile-black.png
-[demo-html-dark-pro]: images/demo-html-dark-pro.png
-[demo-html-dark-pro-bright]: images/demo-html-dark-pro-bright.png
-[demo-html-blue]: images/demo-html-blue.png
-[demo-html-blue-deep]: images/demo-html-blue-deep.png
-[demo-html-blue-xdeep]: images/demo-html-blue-xdeep.png
