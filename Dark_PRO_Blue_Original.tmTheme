@@ -504,7 +504,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#3993FF</string><!-- theme org #53B3E6, to close to properties #36A9FF, a bit bluer #3993FF, older extra bright #52E2FF -->
+				<string>#1AA3FF</string><!-- theme org #53B3E6, to close to properties #36A9FF, a bit bluer #3993FF, older extra bright #52E2FF -->
 			</dict>
 		</dict>
 		<dict>
