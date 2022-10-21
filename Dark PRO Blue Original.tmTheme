@@ -472,7 +472,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#B0FF5C</string>
+				<string>#B0FF5C</string><!-- old #B0FF5C, new #C1FF5F -->
 			</dict>
 		</dict>
 		<dict>
