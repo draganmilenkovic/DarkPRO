@@ -363,7 +363,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#3993FF</string><!-- new darker blue #3993FF, older extra bright #52E2FF -->
+				<string>#3FA2FC</string><!-- new darker blue #3993FF, tad brighter #3FA2FC (#3EADFF), older extra bright #52E2FF -->
 			</dict>
 		</dict>
 		<dict>
