@@ -159,6 +159,32 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
+				<string>#24EDFF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>PHP Storage type (e.g. esc_html)</string>
+			<key>scope</key>
+			<string>source.php storage.type</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>italic</string>
+				<key>foreground</key>
+				<string>#1ABEFF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JS Storage type (e.g. var)</string>
+			<key>scope</key>
+			<string>source.js storage.type</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>italic</string>
+				<key>foreground</key>
 				<string>#1ABEFF</string>
 			</dict>
 		</dict>
@@ -173,6 +199,19 @@
 				<string></string>
 				<key>foreground</key>
 				<string>#1DCFFF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JS Function call</string>
+			<key>scope</key>
+			<string>source.js variable.function</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#1ABEFF</string>
 			</dict>
 		</dict>
 		<dict>
