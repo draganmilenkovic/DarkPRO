@@ -505,7 +505,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#30C8FC</string><!-- original #53B3E6 -->
+				<string>#52E2FF</string><!-- original #53B3E6, PRO #30C8FC, Monden version #7BDDFF, general support.constant #52E2FF -->
 			</dict>
 		</dict>
 		<dict>
