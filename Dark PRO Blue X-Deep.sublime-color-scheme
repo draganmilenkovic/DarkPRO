@@ -1,0 +1,319 @@
+{
+    "name": "Dark PRO Blue X-Deep",
+    "author": "Dragan Milenkovic",
+    "variables":
+    {
+        "black": "hsl(0, 0%, 0%)",
+        "black2": "hsl(224, 15%, 15%)",
+        "blue": "hsl(218, 100%, 61%)",
+        "blue2": "hsl(213, 100%, 61%)",
+        "blue3": "hsl(209, 97%, 62%)",
+        "blue4": "hsl(216, 18%, 36%)",
+        "blue5": "hsl(198, 100%, 50%)",
+        "blue6": "hsl(218, 20%, 32%)",
+        "blue7": "hsl(219, 20%, 27%)",
+        "blue8": "hsl(219, 22%, 25%)",
+        "blue9": "hsl(197, 100%, 55%)",
+        "blue10": "hsl(220, 17%, 45%)",
+        "blue11": "hsl(193, 100%, 56%)",
+        "cyan": "hsl(185, 100%, 57%)",
+        "cyan2": "hsl(190, 100%, 66%)",
+        "cyan3": "hsl(191, 100%, 59%)",
+        "green": "hsl(89, 100%, 68%)",
+        "orange": "hsl(38, 100%, 65%)",
+        "orange2": "hsl(43, 81%, 78%)",
+        "orange3": "hsl(44, 100%, 70%)",
+        "orange4": "hsl(44, 100%, 70%)",
+        "orange5": "hsl(24, 97%, 55%)",
+        "purple": "hsl(267, 100%, 75%)",
+        "purple2": "hsl(264, 100%, 76%)",
+        "purple3": "hsl(261, 100%, 75%)",
+        "purple4": "hsl(260, 100%, 69%)",
+        "purple5": "hsl(259, 100%, 72%)",
+        "red": "hsl(356, 100%, 65%)",
+        "red2": "hsl(351, 93%, 57%)",
+        "red3": "hsl(349, 100%, 69%)",
+        "red4": "hsl(346, 100%, 64%)",
+        "red5": "hsl(338, 95%, 56%)",
+        "white": "hsl(60, 36%, 96%)",
+        "white2": "hsl(60, 30%, 96%)",
+        "yellow": "hsl(60, 12%, 79%)"
+    },
+    "globals":
+    {
+        "foreground": "var(white2)",
+        "background": "var(black2)",
+        "caret": "var(white)",
+        "invisibles": "var(blue6)",
+        "line_highlight": "var(blue7)",
+        "selection": "var(blue8)",
+        "selection_border": "var(blue4)",
+        "active_guide": "color(var(orange5) alpha(0.69))",
+        "find_highlight_foreground": "var(black)",
+        "find_highlight": "var(orange3)",
+        "brackets_options": "underline",
+        "brackets_foreground": "color(var(white2) alpha(0.65))",
+        "bracket_contents_options": "underline",
+        "bracket_contents_foreground": "color(var(white2) alpha(0.65))",
+        "tags_options": "stippled_underline"
+    },
+    "rules":
+    [
+        {
+            "name": "Comment",
+            "scope": "comment",
+            "foreground": "var(blue10)"
+        },
+        {
+            "name": "String",
+            "scope": "string",
+            "foreground": "var(orange3)"
+        },
+        {
+            "name": "Number",
+            "scope": "constant.numeric",
+            "foreground": "var(purple4)"
+        },
+        {
+            "name": "Escapes",
+            "scope": "constant.character.escape",
+            "foreground": "var(blue)"
+        },
+        {
+            "name": "Built-in constant",
+            "scope": "constant.language",
+            "foreground": "var(purple)"
+        },
+        {
+            "name": "User-defined constant",
+            "scope": "constant.character, constant.other",
+            "foreground": "var(purple2)"
+        },
+        {
+            "name": "Variable",
+            "scope": "variable"
+        },
+        {
+            "name": "Keyword",
+            "scope": "keyword",
+            "foreground": "var(red4)"
+        },
+        {
+            "name": "Storage",
+            "scope": "storage",
+            "foreground": "var(red5)"
+        },
+        {
+            "name": "Storage type",
+            "scope": "storage.type",
+            "foreground": "var(cyan)",
+            "font_style": "italic"
+        },
+        {
+            "name": "PHP Storage type (e.g. esc_html)",
+            "scope": "source.php storage.type",
+            "foreground": "var(blue9)",
+            "font_style": "italic"
+        },
+        {
+            "name": "JS Storage type (e.g. var)",
+            "scope": "source.js storage.type",
+            "foreground": "var(blue9)",
+            "font_style": "italic"
+        },
+        {
+            "name": "Function call",
+            "scope": "variable.function",
+            "foreground": "var(blue11)"
+        },
+        {
+            "name": "JS Function call",
+            "scope": "source.js variable.function",
+            "foreground": "var(blue9)"
+        },
+        {
+            "name": "Keyword declaration",
+            "scope": "keyword.declaration",
+            "foreground": "var(cyan3)",
+            "font_style": "italic"
+        },
+        {
+            "scope": "source.js punctuation.dollar",
+            "foreground": "var(red5)"
+        },
+        {
+            "name": "Class name",
+            "scope": "entity.name.class",
+            "foreground": "var(green)"
+        },
+        {
+            "name": "CSS Numerics",
+            "scope": "source.css constant.numeric",
+            "foreground": "var(purple5)"
+        },
+        {
+            "name": "CSS Units/Suffixes",
+            "scope": "source.css constant.numeric.suffix",
+            "foreground": "var(red5)"
+        },
+        {
+            "name": "Inherited class",
+            "scope": "entity.other.inherited-class",
+            "foreground": "var(green)",
+            "font_style": "italic"
+        },
+        {
+            "name": "Function name",
+            "scope": "entity.name.function",
+            "foreground": "var(green)"
+        },
+        {
+            "name": "Function argument",
+            "scope": "variable.parameter",
+            "foreground": "var(orange5)",
+            "font_style": "italic"
+        },
+        {
+            "name": "Punctuation string end",
+            "scope": "punctuation.definition.string.end",
+            "foreground": "var(orange5)"
+        },
+        {
+            "name": "Punctuation string begin",
+            "scope": "punctuation.definition.string.begin",
+            "foreground": "var(orange5)"
+        },
+        {
+            "name": "Tag name",
+            "scope": "entity.name.tag",
+            "foreground": "var(red5)"
+        },
+        {
+            "name": "Tag attribute",
+            "scope": "entity.other.attribute-name",
+            "foreground": "var(green)"
+        },
+        {
+            "name": "Library function",
+            "scope": "support.function",
+            "foreground": "var(blue3)"
+        },
+        {
+            "name": "Library constant",
+            "scope": "support.constant",
+            "foreground": "var(cyan2)"
+        },
+        {
+            "name": "Library module",
+            "scope": "support.module",
+            "foreground": "var(cyan2)"
+        },
+        {
+            "name": "Library class/type",
+            "scope": "support.type, support.class",
+            "foreground": "var(cyan2)",
+            "font_style": "italic"
+        },
+        {
+            "name": "Library variable",
+            "scope": "support.other.variable"
+        },
+        {
+            "name": "Invalid",
+            "scope": "invalid",
+            "foreground": "var(white)",
+            "background": "var(red5)"
+        },
+        {
+            "name": "Invalid deprecated",
+            "scope": "invalid.deprecated",
+            "foreground": "var(white)",
+            "background": "var(purple3)"
+        },
+        {
+            "name": "JSON String",
+            "scope": "meta.structure.dictionary.json string.quoted.double.json",
+            "foreground": "var(yellow)"
+        },
+        {
+            "name": "diff.header",
+            "scope": "meta.diff, meta.diff.header",
+            "foreground": "var(blue10)"
+        },
+        {
+            "name": "diff.deleted",
+            "scope": "markup.deleted",
+            "foreground": "var(red4)"
+        },
+        {
+            "name": "diff.inserted",
+            "scope": "markup.inserted",
+            "foreground": "var(green)"
+        },
+        {
+            "name": "diff.changed",
+            "scope": "markup.changed",
+            "foreground": "var(orange3)"
+        },
+        {
+            "scope": "constant.numeric.line-number.find-in-files - match",
+            "foreground": "color(var(purple3) alpha(0.63))"
+        },
+        {
+            "scope": "entity.name.filename.find-in-files",
+            "foreground": "var(orange3)"
+        },
+        {
+            "name": "CSS Constants",
+            "scope": "source.css support.constant",
+            "foreground": "var(cyan2)"
+        },
+        {
+            "name": "CSS Functions ( aka scale() )",
+            "scope": "source.css support.function",
+            "foreground": "var(blue2)"
+        },
+        {
+            "name": "CSS Properties",
+            "scope": "source.css support.type, source.css support.class",
+            "foreground": "var(blue5)",
+            "font_style": "italic"
+        },
+        {
+            "name": "CSS Class Names",
+            "scope": "source.css entity.other.attribute-name",
+            "foreground": "var(orange4)"
+        },
+        {
+            "name": "CSS String",
+            "scope": "source.css string",
+            "foreground": "var(orange2)"
+        },
+        {
+            "name": "CSS String Quotes",
+            "scope": "source.css punctuation.definition.string.begin, source.css punctuation.definition.string.end",
+            "foreground": "var(orange)"
+        },
+        {
+            "name": "Hegemony",
+            "scope": "punctuation.accessor",
+            "foreground": "var(red3)"
+        },
+        {
+            "scope": "source.php keyword.operator",
+            "foreground": "var(red2)"
+        },
+        {
+            "scope": "source.php keyword.operator.logical",
+            "foreground": "var(red2)"
+        },
+        {
+            "scope": "source.php keyword.operator.assignment",
+            "foreground": "var(red)"
+        },
+        {
+            "scope": "source.php keyword.operator.arithmetic",
+            "foreground": "var(red)"
+        }
+    ]
+}
