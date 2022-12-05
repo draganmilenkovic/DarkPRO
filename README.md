@@ -32,7 +32,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-Color schemes (<a href="https://github.com/draganmilenkovic/DarkPRO">Dark PRO Original, Dark PRO Bright, Dark PRO Volatile Black, PRO Blue Original, PRO Blue Deep, PRO Blue X-Deep</a>) for Sublime Text.
+Color schemes (<a href="https://github.com/draganmilenkovic/DarkPRO">Dark PRO Original, PRO Blue Zen (New), Dark PRO Bright, Dark PRO Volatile Black, PRO Blue Original, PRO Blue Deep, PRO Blue X-Deep</a>) for Sublime Text.
 
 <!-- FEATURES -->
 ## Features:
@@ -113,18 +113,18 @@ Dark PRO themes strike the center of beautiful colors and eye-care, creating a p
 ##### via Package Control
 * Make sure you already have Package Control installed
 * Open the Command Palette (Ctrl+Shift+P on Windows/Linux, ⇧⌘P on iOS) and choose "Install Package" from the list
-* When packages load, type "Dark PRO Color Schemes" (or just Dark PRO... until Dark PRO Color Schemes appears) and press Enter
+* When packages load, type "DarkPRO" (or just Dark PRO... until Dark PRO Color Schemes appears) and press Enter
 * Open the Command Palette again, or if it's already open, proceed
 * Then you can start typing "color" and select the "UI: Select Color Scheme" option when it appears on the list.
 * Now choose any Dark PRO scheme you like from the selection.
 * (you can also go to `Preferences > Color Schemes > Dark Pro Color Schemes` and select a scheme)
 
 ##### Manual Installation
-* Download a .tmTheme file
+* Download a .sublime-color-scheme file
 * Browse Packages from the Command Palette (Ctrl+Shift+P on Windows/Linux, ⇧⌘P on OS X)
-* Copy the .tmTheme file to Packages
+* Copy the .sublime-color-scheme file to Packages
 * And add the following line to Settings - User (Preferences.sublime-settings) file.
-<p>`"color_scheme": "Packages/[RootOrYourCustomRoot]/Dark PRO Original.tmTheme"`</p>
+<p>`"color_scheme": "Packages/[RootOrYourCustomRoot]/Dark PRO Original.sublime-color-scheme"`</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
