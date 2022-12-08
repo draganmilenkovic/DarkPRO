@@ -32,7 +32,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-Color schemes (<a href="https://github.com/draganmilenkovic/DarkPRO">Dark PRO Original, PRO Blue Zen (New), Dark PRO Bright, Dark PRO Volatile Black, PRO Blue Original, PRO Blue Deep, PRO Blue X-Deep</a>) for Sublime Text.
+Color schemes (<a href="https://github.com/draganmilenkovic/DarkPRO">Dark PRO Original, PRO Blue Neo-Zen (New), PRO Blue Zen (New), Dark PRO Bright, Dark PRO Volatile Black, PRO Blue Original, PRO Blue Deep, PRO Blue X-Deep</a>) for Sublime Text.
 
 <!-- FEATURES -->
 ## Features:
@@ -49,61 +49,61 @@ Dark PRO themes strike the center of beautiful colors and eye-care, creating a p
 ## Screenshots
 
 #### JS - Dark PRO Original
-<img src="https://github.com/draganmilenkovic/DarkPRO/blob/main/images/demo-js-dark-pro.png" />
+![JS - Dark PRO Original](https://raw.github.com/draganmilenkovic/DarkPRO/blob/main/images/demo-js-dark-pro.png)
 
 #### CSS - Multi
-<img src="https://github.com/draganmilenkovic/DarkPRO/blob/main/images/demo-all-css.png" />
+![SS - Multi](https://raw.github.com/draganmilenkovic/DarkPRO/blob/main/images/demo-all-css.png)
 
 #### JS - Dark PRO Volatile Black
-<img src="https://github.com/draganmilenkovic/DarkPRO/blob/main/images/demo-js-dark-pro-volatile-black.png" />
+![JS - Dark PRO Volatile Black](https://raw.github.com/draganmilenkovic/DarkPRO/blob/main/images/demo-js-dark-pro-volatile-black.png)
 
 #### JS - Dark PRO Bright
-<img src="https://github.com/draganmilenkovic/DarkPRO/blob/main/images/demo-js-dark-pro-bright.png" />
+![JS - Dark PRO Bright](https://raw.github.com/draganmilenkovic/DarkPRO/blob/main/images/demo-js-dark-pro-bright.png)
 
 #### JS - Dark PRO Blue
-<img src="https://github.com/draganmilenkovic/DarkPRO/blob/main/images/demo-js-blue.png" />
+![JS - Dark PRO Blue](https://raw.github.com/draganmilenkovic/DarkPRO/blob/main/images/demo-js-blue.png)
 
 #### JS - Dark PRO Blue Deep
-<img src="https://github.com/draganmilenkovic/DarkPRO/blob/main/images/demo-js-blue-deep.png" />
+![JS - Dark PRO Blue Deep](https://raw.github.com/draganmilenkovic/DarkPRO/blob/main/images/demo-js-blue-deep.png)
 
 #### JS - Dark PRO Blue X-Deep
-<img src="https://github.com/draganmilenkovic/DarkPRO/blob/main/images/demo-js-blue-xdeep.png" />
+![JS - Dark PRO Blue X-Deep](https://raw.github.com/draganmilenkovic/DarkPRO/blob/main/images/demo-js-blue-xdeep.png)
 
 #### PHP - Dark PRO Volatile Black
-<img src="https://github.com/draganmilenkovic/DarkPRO/blob/main/images/demo-php-dark-pro-volatile-black.png" />
+![PHP - Dark PRO Volatile Black](https://raw.github.com/draganmilenkovic/DarkPRO/blob/main/images/demo-php-dark-pro-volatile-black.png)
 
 #### PHP - Dark PRO Original
-<img src="https://github.com/draganmilenkovic/DarkPRO/blob/main/images/demo-php-dark-pro.png" />
+![PHP - Dark PRO Original](https://raw.github.com/draganmilenkovic/DarkPRO/blob/main/images/demo-php-dark-pro.png)
 
 #### PHP - Dark PRO Bright
-<img src="https://github.com/draganmilenkovic/DarkPRO/blob/main/images/demo-php-dark-pro-bright.png" />
+![PHP - Dark PRO Bright](https://raw.github.com/draganmilenkovic/DarkPRO/blob/main/images/demo-php-dark-pro-bright.png)
 
 #### PHP - Dark PRO Blue
-<img src="https://github.com/draganmilenkovic/DarkPRO/blob/main/images/demo-php-blue.png" />
+![PHP - Dark PRO Blue](https://raw.github.com/draganmilenkovic/DarkPRO/blob/main/images/demo-php-blue.png)
 
 #### PHP - Dark PRO Blue Deep
-<img src="https://github.com/draganmilenkovic/DarkPRO/blob/main/images/demo-php-blue-deep.png" />
+![PHP - Dark PRO Blue Deep](https://raw.github.com/draganmilenkovic/DarkPRO/blob/main/images/demo-php-blue-deep.png)
 
 #### PHP - Dark PRO Blue X-Deep
-<img src="https://github.com/draganmilenkovic/DarkPRO/blob/main/images/demo-php-blue-xdeep.png" />
+![PHP - Dark PRO Blue X-Deep](https://raw.github.com/draganmilenkovic/DarkPRO/blob/main/images/demo-php-blue-xdeep.png)
 
 #### HTML - Dark PRO Volatile Black
-<img src="https://github.com/draganmilenkovic/DarkPRO/blob/main/images/demo-html-dark-pro-volatile-black.png" />
+![HTML - Dark PRO Volatile Black](https://raw.github.com/draganmilenkovic/DarkPRO/blob/main/images/demo-html-dark-pro-volatile-black.png)
 
 #### HTML - Dark PRO Original
-<img src="https://github.com/draganmilenkovic/DarkPRO/blob/main/images/demo-html-dark-pro.png" />
+![HTML - Dark PRO Original](https://raw.github.com/draganmilenkovic/DarkPRO/blob/main/images/demo-html-dark-pro.png)
 
 #### HTML - Dark PRO Bright
-<img src="https://github.com/draganmilenkovic/DarkPRO/blob/main/images/demo-html-dark-pro-bright.png" />
+![HTML - Dark PRO Bright](https://raw.github.com/draganmilenkovic/DarkPRO/blob/main/images/demo-html-dark-pro-bright.png)
 
 #### HTML - Dark PRO Blue
-<img src="https://github.com/draganmilenkovic/DarkPRO/blob/main/images/demo-html-blue.png" />
+![HTML - Dark PRO Blue](https://raw.github.com/draganmilenkovic/DarkPRO/blob/main/images/demo-html-blue.png)
 
 #### HTML - Dark PRO Blue Deep
-<img src="https://github.com/draganmilenkovic/DarkPRO/blob/main/images/demo-html-blue-deep.png" />
+![HTML - Dark PRO Blue Deep](https://raw.github.com/draganmilenkovic/DarkPRO/blob/main/images/demo-html-blue-deep.png)
 
 #### HTML - Dark PRO Blue X-Deep
-<img src="https://github.com/draganmilenkovic/DarkPRO/blob/main/images/demo-html-blue-xdeep.png" />
+![HTML - Dark PRO Blue X-Deep](https://raw.github.com/draganmilenkovic/DarkPRO/blob/main/images/demo-html-blue-xdeep.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
