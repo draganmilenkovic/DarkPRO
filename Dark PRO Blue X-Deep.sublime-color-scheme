@@ -148,12 +148,12 @@
         },
         {
             "name": "CSS Numerics",
-            "scope": "source.css constant.numeric",
+            "scope": "source.css constant.numeric, source.scss constant.numeric, source.sass constant.numeric",
             "foreground": "var(purple5)"
         },
         {
             "name": "CSS Units/Suffixes",
-            "scope": "source.css constant.numeric.suffix",
+            "scope": "source.css constant.numeric.suffix, source.scss constant.numeric.suffix, source.sass constant.numeric.suffix",
             "foreground": "var(red5)"
         },
         {
@@ -265,33 +265,33 @@
         },
         {
             "name": "CSS Constants",
-            "scope": "source.css support.constant",
+            "scope": "source.css support.constant, source.scss support.constant, source.sass support.constant",
             "foreground": "var(cyan2)"
         },
         {
             "name": "CSS Functions ( aka scale() )",
-            "scope": "source.css support.function",
+            "scope": "source.css support.function, source.scss support.function, source.sass support.function",
             "foreground": "var(blue2)"
         },
         {
             "name": "CSS Properties",
-            "scope": "source.css support.type, source.css support.class",
+            "scope": "source.css support.type, source.css support.class, source.scss support.type, source.scss support.class, source.sass support.type, source.sass support.class",
             "foreground": "var(blue5)",
             "font_style": "italic"
         },
         {
             "name": "CSS Class Names",
-            "scope": "source.css entity.other.attribute-name",
+            "scope": "source.css entity.other.attribute-name, source.scss entity.other.attribute-name, source.sass entity.other.attribute-name",
             "foreground": "var(orange4)"
         },
         {
             "name": "CSS String",
-            "scope": "source.css string",
+            "scope": "source.css string, source.scss string, source.sass string",
             "foreground": "var(orange2)"
         },
         {
             "name": "CSS String Quotes",
-            "scope": "source.css punctuation.definition.string.begin, source.css punctuation.definition.string.end",
+            "scope": "source.css punctuation.definition.string.begin, source.css punctuation.definition.string.end, source.scss punctuation.definition.string.begin, source.scss punctuation.definition.string.end, source.sass punctuation.definition.string.begin, source.sass punctuation.definition.string.end",
             "foreground": "var(orange)"
         },
         {

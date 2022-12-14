@@ -225,12 +225,12 @@
         },
         {
             "name": "CSS Constants",
-            "scope": "source.css support.constant",
+            "scope": "source.css support.constant, source.scss support.constant, source.sass support.constant",
             "foreground": "var(blue7)"
         },
         {
             "name": "CSS Functions ( aka scale() )",
-            "scope": "source.css support.function",
+            "scope": "source.css support.function, source.scss support.function, source.sass support.function",
             "foreground": "var(blue3)"
         },
         {
@@ -239,12 +239,12 @@
         },
         {
             "name": "CSS Numerics",
-            "scope": "source.css constant.numeric",
+            "scope": "source.css constant.numeric, source.scss constant.numeric, source.sass constant.numeric",
             "foreground": "var(purple)"
         },
         {
             "name": "CSS Units/Suffixes",
-            "scope": "source.css constant.numeric.suffix",
+            "scope": "source.css constant.numeric.suffix, source.scss constant.numeric.suffix, source.sass constant.numeric.suffix",
             "foreground": "var(red3)"
         },
         {
@@ -259,13 +259,13 @@
         },
         {
             "name": "CSS Properties",
-            "scope": "source.css support.type, source.css support.class",
+            "scope": "source.css support.type, source.css support.class, source.scss support.type, source.scss support.class, source.sass support.type, source.sass support.class",
             "foreground": "var(blue11)",
             "font_style": "italic"
         },
         {
             "name": "CSS Class Names",
-            "scope": "source.css entity.other.attribute-name",
+            "scope": "source.css entity.other.attribute-name, source.scss entity.other.attribute-name, source.sass entity.other.attribute-name",
             "foreground": "var(blue6)"
         },
         {
